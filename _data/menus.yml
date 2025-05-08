@@ -1,0 +1,10 @@
+main:
+  - name: "Hizmetler"
+    url: "/services/"
+    weight: 2
+  - name: "Hakkımızda"
+    url: "/about/"
+    weight: 3
+  - name: "İletişim"
+    url: "/contact/"
+    weight: 4

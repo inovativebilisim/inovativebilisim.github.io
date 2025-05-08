@@ -1,0 +1,13 @@
+{
+    "originRepo": "https://github.com/dincboryalitimm/dincboryalitimm.github.io",
+    "title": "Dinç Bor Yalıtım",
+    "description": "Dinç Bor Yalıtım Resmi Websitesi",
+    "demoUrl": "https://dincboryalitim.com",
+    "categories": {
+      "ssg": ["jekyll"],
+      "css": ["bootstrap", "scss"],
+      "archetype": ["business"],
+      "features": ["netlify", "github-pages"],
+      "blueprint": ["theme"]
+    }
+}
