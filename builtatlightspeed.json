@@ -1,8 +1,8 @@
 {
-    "originRepo": "https://github.com/dincboryalitimm/dincboryalitimm.github.io",
-    "title": "Dinç Bor Yalıtım",
-    "description": "Dinç Bor Yalıtım Resmi Websitesi",
-    "demoUrl": "https://dincboryalitim.com",
+    "originRepo": "https://github.com/inovativebilisim/inovativebilisim.github.io",
+    "title": "İnovative Bilişim",
+    "description": "İnovative Bilişim Resmi Websitesi",
+    "demoUrl": "https://inovativebilisim.com",
     "categories": {
       "ssg": ["jekyll"],
       "css": ["bootstrap", "scss"],

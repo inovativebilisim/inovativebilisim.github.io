@@ -1,26 +1,26 @@
 [
   {
     "name": "Whatsapp",
-    "link": "https://wa.me/+905368825529",
+    "link": "https://wa.me/+905397673836",
     "image": "images/social/whatsapp.png",
     "image-dark": "images/social/whatsapp-dark.png",
     "header": "images/social/whatsapp-destek.png"
   },
   {
       "name": "Facebook",
-      "link": "https://facebook.com/100094592486197",
+      "link": "https://facebook.com/@inovativebilisim",
       "image-dark": "images/social/facebook-dark.png",
       "image": "images/social/facebook.png"
   },
   {
     "name": "Instagram",
-    "link": "https://instagram.com/borluyalitim38",
+    "link": "https://instagram.com/inovativebilisim",
     "image": "images/social/instagram.png",
     "image-dark": "images/social/instagram-dark.png"
   },
   {
       "name": "Email",
-      "link": "mailto:dincboryalitim@gmail.com ",
+      "link": "mailto:inovativebilisim@gmail.com ",
       "image": "images/social/email.png",
       "image-dark": "images/social/email-dark.png"
   }

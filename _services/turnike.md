@@ -1,0 +1,10 @@
+---
+title: "Kartlı Geçiş ve Turnike Sistemleri"
+date: 2019-05-18T12:33:46+10:00
+weight: 6
+---
+Turnike geçiş sistemleri günümüz geçiş kontrol sistemlerinin önemli ekipmanlarından biridir. Turnike sistemlerine genel olarak turnikeli geçiş sistemleri denilmektedir. Herhangi bir binaya veya alana giriş-çıkışları düzenlemek ve sınırlandırmak için kullanılırlar. İç ve dış ortamlar için uygun modelleri mevcuttur. Daha çok tek başına değil de bir kontrol cihazı ile birlikte kullanılırlar. Bu cihazlar; proximity kart okuyucu, parmak izi okuyucu, yüz tanıma cihazı, el okuma cihazı, iris tanıma cihazı vb. olmaktadır.
+
+Kartlı turnike sistemlerinde kullanılmakta olan turnikelerden bahsedelim. Bu turnikelerin kullanılmakta olan dört farkı modeli yer almaktadır. Bel turnikeleri, hızlı geçiş turnikeleri, engelli geçiş turnikeleri ve boy turnikeleri. Hangi turnikenin kullanılacak olduğu, tamamen kullanım sağlayacağınız alana göre değişmektedir. Kısaca bahsedelim. Bel kartlı turnike sistemleri, insan beli boyunda olan turnikelerdir. Bu turnikeler günümüzde özellikle metro ve metrobüs istasyonlarından aşina olduğumuz turnikelerdir. Paslanmaz çelik ve elektrostatik boyalı gövdelere sahiptir. Hızlı geçiş kartlı turnike sistemleri, yoğun ve hızlı geçişlerin yapılması için kullanılmakta olan turnikelerdir. Bu turnikelerde kol engeli yoktur. Geçiş izni alındığında hiçbir engele takılmadan geçişe izin verdiği için hızlı geçiş için kullanılmaktadır. Boy kartlı turnike sistemleri ise insan boyunu aşan turnikelerdir. Bu turnikeler, taşkınlıkların önlenmesi için kullanılmaktadır. Özellikle stadyumlarda ve konser alanlarında sıklıkla tercih edilirler. Tıpkı bel kartlı turnike sistemlerinde olduğu gibi boy turnikeleri ve hızlı geçiş turnikelerinde de elektrostatik boyalı gövdeli modeller iç ortamlarda, paslanmaz çelik modeller ise dış ortamlarda kullanılmaktadır. Engelli kartlı turnike sistemleri ise engelli bireylerin geçiş yapabilmeleri için kullanılmakta olan turnikelerdir. Bu turnikeler özellikle boy turnikesi ve bel turnikesi kullanılan alanlarda engelli bireylerin de geçiş yapabilmesi için kesinlikle kullanılmalıdır.
+
+![Turnike](/images/services/turnike.jpg)

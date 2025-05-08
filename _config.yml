@@ -1,8 +1,8 @@
 baseurl: '/'
 permalink: pretty
-title: 'Dinç Bor Yalıtım'
-domain: 'https://dincboryalitim.com'
-discus-identifier: dincboryalitim
+title: 'İnovative Bilişim'
+domain: 'https://inovativebilisim.github.io'
+discus-identifier: inovativebilisim
 
 logo:
   mobile: "images/icon.png"
@@ -11,7 +11,7 @@ logo:
   desktop_height: "96px"
 
 home: 
-  limit_services: 3
+  limit_services: 6
 
 collections:
   services:

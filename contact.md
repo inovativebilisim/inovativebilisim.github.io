@@ -1,7 +1,7 @@
 ---
-title: İletişim
+title: İLETİŞİM
 layout: contact
-description: İletişim
+description: İLETİŞİM
 ---
 
 Eğer herhangi bir sorunuz, öneriniz veya işbirliği teklifiniz varsa, yukarıdaki iletişim bilgilerinden bize ulaşabilirsiniz.
